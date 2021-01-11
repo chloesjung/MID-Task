@@ -11,3 +11,6 @@ The water-deprived mice were trained of the modified version of MID Task where t
 ![Test Image 1](https://github.com/chloesjung/MID-Task/blob/main/2019-03-26/F1%202019-03-26.png)
 
 This is the raster plot of behavioral data attained from this MID task. Each point indicates nose poke of each mice. The red point indicates the nose pokes that the mice got correctly, thereby receiving the reward. This graph shows how each mice are starting to understand the task, and thereby showing validity to our modified MID task. 
+
+#### References:
+Knutson, Brian, et al. “FMRI Visualization of Brain Activity during a Monetary Incentive Delay Task.” NeuroImage, vol. 12, no. 1, 2000, pp. 20–27., doi:10.1006/nimg.2000.0593. 
